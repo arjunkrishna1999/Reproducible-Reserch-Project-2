@@ -75,7 +75,7 @@ StormData %>%
       coord_flip() +
       theme_light()
 ```
-
+![](figure-html/unnamed-chunk-5-2.png)<!-- -->
 # Which types of events have the greatest economic consequences?
 
 This plot shows Property damage estimates by Event type
@@ -95,7 +95,7 @@ StormData %>%
       coord_flip() +
       theme_light()
 ```
-
+![](figure-html/unnamed-chunk-5-3.png)<!-- -->
 # Conclusion
 
 #### As you can see above flood has the greatest economic consequences. Tornado is the most harmful to population health because caused the most death tolls and injuries.
