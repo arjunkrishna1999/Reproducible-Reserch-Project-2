@@ -58,7 +58,7 @@ StormData %>%
       coord_flip() +
       theme_light()
 ```
-
+![](figure-html/unnamed-chunk-5-1.png)<!-- -->
 The second plot presents Injuries by Event type
 
 ```{r, echo=TRUE}
